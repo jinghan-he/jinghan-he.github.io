@@ -19,12 +19,6 @@ I am currently a second year Ph.D. student at the [Institute of Automation](http
 - **[June 2022]** Bachelor of Automation Science and Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
 
 [//]: # (## News)
-
-[//]: # ()
 [//]: # (- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.)
-
-[//]: # ()
 [//]: # ({% include_relative _includes/publications.md %})
-
-[//]: # ()
 [//]: # ({% include_relative _includes/services.md %})
