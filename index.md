@@ -10,7 +10,7 @@ I am currently a second year Ph.D. student at the [Institute of Automation](http
 
 - Computer Vision
 - Continual/Lifelong Learning
-- Vision and Language Models
+- Vision-Language Models
 
 ## Education
 
